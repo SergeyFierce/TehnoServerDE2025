@@ -1,0 +1,45 @@
+C:\Users\Gevorg\Documents\0101\ОООТехносервис\bin\Debug\ОООТехносервис.exe.config
+C:\Users\Gevorg\Documents\0101\ОООТехносервис\bin\Debug\ОООТехносервис.exe
+C:\Users\Gevorg\Documents\0101\ОООТехносервис\bin\Debug\ОООТехносервис.pdb
+C:\Users\Gevorg\Documents\0101\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.AssemblyReference.cache
+C:\Users\Gevorg\Documents\0101\ОООТехносервис\obj\Debug\ОООТехносервис.Form1.resources
+C:\Users\Gevorg\Documents\0101\ОООТехносервис\obj\Debug\ОООТехносервис.Properties.Resources.resources
+C:\Users\Gevorg\Documents\0101\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.GenerateResource.cache
+C:\Users\Gevorg\Documents\0101\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.CoreCompileInputs.cache
+C:\Users\Gevorg\Documents\0101\ОООТехносервис\obj\Debug\ОООТехносервис.exe
+C:\Users\Gevorg\Documents\0101\ОООТехносервис\obj\Debug\ОООТехносервис.pdb
+C:\Users\Gevorg\Documents\БД_Демо_0101_Матысик\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.AssemblyReference.cache
+C:\Users\Gevorg\Documents\БД_Демо_0101_Матысик\ОООТехносервис\obj\Debug\ОООТехносервис.Authorization.resources
+C:\Users\Gevorg\Documents\БД_Демо_0101_Матысик\ОООТехносервис\obj\Debug\ОООТехносервис.Properties.Resources.resources
+C:\Users\Gevorg\Documents\БД_Демо_0101_Матысик\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.GenerateResource.cache
+C:\Users\Gevorg\Documents\БД_Демо_0101_Матысик\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.CoreCompileInputs.cache
+C:\Users\Gevorg\Documents\БД_Демо_0101_Матысик\ОООТехносервис\obj\Debug\ОООТехносервис.exe
+C:\Users\Gevorg\Documents\БД_Демо_0101_Матысик\ОООТехносервис\obj\Debug\ОООТехносервис.pdb
+C:\Users\Gevorg\Documents\БД_Демо_0101_Матысик\ОООТехносервис\bin\Debug\ОООТехносервис.exe.config
+C:\Users\Gevorg\Documents\БД_Демо_0101_Матысик\ОООТехносервис\bin\Debug\ОООТехносервис.exe
+C:\Users\Gevorg\Documents\БД_Демо_0101_Матысик\ОООТехносервис\bin\Debug\ОООТехносервис.pdb
+C:\Users\Gevorg\Documents\БД_Демо_0101_Матысик\ОООТехносервис\bin\Debug\EntityFramework.dll
+C:\Users\Gevorg\Documents\БД_Демо_0101_Матысик\ОООТехносервис\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gevorg\Documents\БД_Демо_0101_Матысик\ОООТехносервис\bin\Debug\EntityFramework.xml
+C:\Users\Gevorg\Documents\БД_Демо_0101_Матысик\ОООТехносервис\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gevorg\Documents\БД_Демо_0101_Матысик\ОООТехносервис\obj\Debug\________.F31BED7F.Up2Date
+C:\Users\Gevorg\Documents\БД_Демо_0101_Матысик\ОООТехносервис\obj\Debug\ОООТехносервис.View.Auth.resources
+C:\Users\Gevorg\Documents\БД_Демо_0101_Матысик\ОООТехносервис\obj\Debug\ОООТехносервис.View.ListRequest.resources
+D:\Учёба\Учёба 2024-2025 3 курс\МДК 01.01\ОООТехносервис\ОООТехносервис\bin\Debug\ОООТехносервис.exe.config
+D:\Учёба\Учёба 2024-2025 3 курс\МДК 01.01\ОООТехносервис\ОООТехносервис\bin\Debug\ОООТехносервис.exe
+D:\Учёба\Учёба 2024-2025 3 курс\МДК 01.01\ОООТехносервис\ОООТехносервис\bin\Debug\ОООТехносервис.pdb
+D:\Учёба\Учёба 2024-2025 3 курс\МДК 01.01\ОООТехносервис\ОООТехносервис\bin\Debug\EntityFramework.dll
+D:\Учёба\Учёба 2024-2025 3 курс\МДК 01.01\ОООТехносервис\ОООТехносервис\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учёба\Учёба 2024-2025 3 курс\МДК 01.01\ОООТехносервис\ОООТехносервис\bin\Debug\EntityFramework.xml
+D:\Учёба\Учёба 2024-2025 3 курс\МДК 01.01\ОООТехносервис\ОООТехносервис\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учёба\Учёба 2024-2025 3 курс\МДК 01.01\ОООТехносервис\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.AssemblyReference.cache
+D:\Учёба\Учёба 2024-2025 3 курс\МДК 01.01\ОООТехносервис\ОООТехносервис\obj\Debug\ОООТехносервис.View.Auth.resources
+D:\Учёба\Учёба 2024-2025 3 курс\МДК 01.01\ОООТехносервис\ОООТехносервис\obj\Debug\ОООТехносервис.Authorization.resources
+D:\Учёба\Учёба 2024-2025 3 курс\МДК 01.01\ОООТехносервис\ОООТехносервис\obj\Debug\ОООТехносервис.Properties.Resources.resources
+D:\Учёба\Учёба 2024-2025 3 курс\МДК 01.01\ОООТехносервис\ОООТехносервис\obj\Debug\ОООТехносервис.View.ListRequest.resources
+D:\Учёба\Учёба 2024-2025 3 курс\МДК 01.01\ОООТехносервис\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.GenerateResource.cache
+D:\Учёба\Учёба 2024-2025 3 курс\МДК 01.01\ОООТехносервис\ОООТехносервис\obj\Debug\ОООТехносервис.csproj.CoreCompileInputs.cache
+D:\Учёба\Учёба 2024-2025 3 курс\МДК 01.01\ОООТехносервис\ОООТехносервис\obj\Debug\________.F31BED7F.Up2Date
+D:\Учёба\Учёба 2024-2025 3 курс\МДК 01.01\ОООТехносервис\ОООТехносервис\obj\Debug\ОООТехносервис.exe
+D:\Учёба\Учёба 2024-2025 3 курс\МДК 01.01\ОООТехносервис\ОООТехносервис\obj\Debug\ОООТехносервис.pdb
+D:\Учёба\Учёба 2024-2025 3 курс\МДК 01.01\ОООТехносервис\ОООТехносервис\obj\Debug\ОООТехносервис.View.WorkRequest.resources
